@@ -14,6 +14,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Analysis Of An AutoIT Script That Wraps A Remcos RAT](https://amgedwageh.medium.com/analysis-of-an-autoit-script-that-wraps-a-remcos-rat-6b5b66075b87?source=rss-6cb86f72015c------2)
+- [LockBit Ransomware Analysis Notes](https://amgedwageh.medium.com/lockbit-ransomware-analysis-notes-93a542fc8511?source=rss-6cb86f72015c------2)
+- [Network Packet Manual Analysis](https://amgedwageh.medium.com/network-packet-manual-analysis-63e25f32ea54?source=rss-6cb86f72015c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
