@@ -14,7 +14,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Pillars of Analyzing Malicious MS Office Documents — Part 1–3: Document Format Structures](https://amgedwageh.medium.com/pillars-of-analyzing-malicious-ms-office-documents-part-1-3-document-format-structures-89d5c73be66?source=rss-6cb86f72015c------2)
+- [Pillars of Analyzing Malicious MS Office Documents — Part 1–3: Unveiling Document Format Structures](https://amgedwageh.medium.com/pillars-of-analyzing-malicious-ms-office-documents-part-1-3-document-format-structures-89d5c73be66?source=rss-6cb86f72015c------2)
 - [Analysis Of An AutoIT Script That Wraps A Remcos RAT](https://amgedwageh.medium.com/analysis-of-an-autoit-script-that-wraps-a-remcos-rat-6b5b66075b87?source=rss-6cb86f72015c------2)
 - [LockBit Ransomware Analysis Notes](https://amgedwageh.medium.com/lockbit-ransomware-analysis-notes-93a542fc8511?source=rss-6cb86f72015c------2)
 - [Network Packet Manual Analysis](https://amgedwageh.medium.com/network-packet-manual-analysis-63e25f32ea54?source=rss-6cb86f72015c------2)
