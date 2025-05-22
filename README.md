@@ -14,6 +14,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dero miner zombies biting through Docker APIs to build a cryptojacking horde](https://securelist.com/dero-miner-infects-containers-through-docker-api/116546/)
+- [Risk reduction redefined: How compromise assessment helps strengthen cyberdefenses](https://securelist.com/compromise-assessment-cases/114332/)
 - [DriveFS Sleuth — Recovery Made Possible!](https://amgedwageh.medium.com/drivefs-sleuth-recovery-made-possible-f3847c0b0ac9?source=rss-6cb86f72015c------2)
 - [DriveFS Sleuth — Revealing The Hidden Intelligence](https://amgedwageh.medium.com/drivefs-sleuth-revealing-the-hidden-intelligence-82f043c452e4?source=rss-6cb86f72015c------2)
 - [DriveFS Sleuth — Your Ultimate Google Drive File Stream Investigator!](https://amgedwageh.medium.com/drivefs-sleuth-investigating-google-drive-file-streams-disk-artifacts-0b5ea637c980?source=rss-6cb86f72015c------2)
